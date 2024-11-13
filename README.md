@@ -1,5 +1,8 @@
 # EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-
- 
+## Name:Loshini.G
+## Register number:212223220051
+## Department:IT
+## Date:
 ## Aim: To  configure  the Application server and visualize the data on the dashboard 
 ## Components required: Iot application server 
 ## Theory :
@@ -28,9 +31,9 @@ As the application server market matures, high performance becomes a stronger cr
 
 
 ## OUTPUT 
- 
-![image](https://github.com/vasanthkumarch/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/36288975/8ead363c-7b62-42de-8918-2493fdf96696)
-
+![Screenshot 2024-11-13 113104](https://github.com/user-attachments/assets/36e1c3f6-1204-468c-aaee-371dba491a06)
+![Screenshot 2024-11-13 113141](https://github.com/user-attachments/assets/f0d86cc4-d0c2-4f00-8b99-86c0974ff781)
+![Screenshot 2024-11-13 113233](https://github.com/user-attachments/assets/863499b0-543c-4509-8608-05a9900cd648)
 
 
 ## Results: 
